@@ -76,4 +76,4 @@ Read more about fine-tuning on https://platform.openai.com/docs/guides/fine-tuni
 
 On the [Playground](https://platform.openai.com/playground?mode=complete) website, we can check the result of our training. Don't forget to set a new model and
 set `###` as _**Stop sequences**_.
-![Playground](https://i.ibb.co/9hdWTXH/finetuning.png)
+![Playground](https://raw.github.com/cichy380/fine-tuning-openai/main/finetuning.png)
